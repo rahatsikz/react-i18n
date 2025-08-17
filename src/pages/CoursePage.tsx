@@ -118,7 +118,7 @@ export default function CoursesPage() {
           {filteredCourses.map((course) => (
             <Card
               key={course.id}
-              className='overflow-hidden border-slate-200 hover:shadow-lg transition-shadow pt-5'
+              className='overflow-hidden border-slate-200 hover:shadow-lg transition-shadow pt-5 justify-between'
             >
               <CardHeader>
                 <CardTitle className='text-xl font-playfair'>

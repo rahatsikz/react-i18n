@@ -95,7 +95,7 @@ export function Footer() {
             <div className='flex space-x-3'>
               <Input
                 placeholder={t("footer.emailPlaceholder")}
-                className='flex-1'
+                className='flex-1 border-input shadow-sm'
               />
               <Button
                 size='sm'
