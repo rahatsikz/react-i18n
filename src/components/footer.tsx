@@ -92,10 +92,10 @@ export function Footer() {
           <div>
             <h3 className='font-semibold mb-3'>{t("footer.newsletter")}</h3>
 
-            <div className='flex space-x-3'>
+            <div className='flex items-center space-x-3'>
               <Input
                 placeholder={t("footer.emailPlaceholder")}
-                className='flex-1 border-input shadow-sm'
+                className='flex-1 border-input border-2 shadow-xs'
               />
               <Button
                 size='sm'
