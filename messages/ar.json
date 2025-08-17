@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب"
+  },
+  "hero": {
+    "title": "أتقن تطوير الواجهات الأمامية",
+    "subtitle": "تعلّم تطوير الويب الحديث من خلال مشاريع عملية وتوجيه من خبراء",
+    "cta": "ابدأ التعلم اليوم",
+    "watchDemo": "شاهد العرض التوضيحي"
+  },
+  "features": {
+    "title": "لماذا تختار دوراتنا؟",
+    "practical": {
+      "title": "مشاريع عملية",
+      "description": "ابنِ تطبيقات حقيقية باستخدام أحدث الأُطر والأدوات"
+    },
+    "expert": {
+      "title": "مدربون خبراء",
+      "description": "تعلّم من محترفين في المجال بخبرة سنوات"
+    },
+    "community": {
+      "title": "مجتمع نشِط",
+      "description": "انضم إلى آلاف المطورين واحصل على الدعم متى احتجت"
+    }
+  },
+  "courses": {
+    "title": "دوراتنا المميزة",
+    "cta": "سجّل الآن",
+    "pageTitle": "جميع الدورات",
+    "pageSubtitle": "استكشف مجموعتنا الكاملة من دورات تطوير الواجهات الأمامية",
+    "searchPlaceholder": "ابحث عن دورة...",
+    "filterAll": "كل المستويات",
+    "filterBeginner": "مبتدئ",
+    "filterIntermediate": "متوسط",
+    "filterAdvanced": "متقدم",
+    "enrollButton": "سجّل الآن",
+    "studentsLabel": "طالب",
+    "lessonsLabel": "درس",
+    "hoursLabel": "ساعة",
+    "list": [
+      {
+        "id": "react-fundamentals",
+        "title": "أساسيات React",
+        "description": "أتقن المكوّنات، الخصائص، الحالة، وHooks في React",
+        "price": "٧٩$",
+        "originalPrice": "٩٩$",
+        "duration": "٨ أسابيع",
+        "level": "مبتدئ",
+        "rating": 4.8,
+        "students": 2847,
+        "lessons": 42,
+        "hours": 18,
+        "instructor": "سارة جونسون",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "advanced-react",
+        "title": "أنماط React المتقدمة",
+        "description": "تعلّم مفاهيم React المتقدمة، تحسين الأداء، وأنماط التصميم",
+        "price": "١٢٩$",
+        "originalPrice": "١٥٩$",
+        "duration": "١٢ أسبوع",
+        "level": "متقدم",
+        "rating": 4.9,
+        "students": 1523,
+        "lessons": 58,
+        "hours": 32,
+        "instructor": "مايك تشين",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "nextjs-complete",
+        "title": "الدليل الكامل لـ Next.js",
+        "description": "ابنِ تطبيقات متكاملة باستخدام Next.js وTypeScript وأحدث الأدوات",
+        "price": "١٤٩$",
+        "originalPrice": "١٩٩$",
+        "duration": "١٦ أسبوع",
+        "level": "متوسط",
+        "rating": 4.7,
+        "students": 3241,
+        "lessons": 72,
+        "hours": 45,
+        "instructor": "أليكس رودريغيز",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "vue-mastery",
+        "title": "إتقان Vue.js",
+        "description": "دورة شاملة لـ Vue 3 وComposition API ونظامها البيئي",
+        "price": "١١٩$",
+        "originalPrice": "١٤٩$",
+        "duration": "١٤ أسبوع",
+        "level": "مبتدئ",
+        "rating": 4.6,
+        "students": 1876,
+        "lessons": 65,
+        "hours": 28,
+        "instructor": "إيما ويلسون",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "typescript-pro",
+        "title": "TypeScript للمحترفين",
+        "description": "أتقن الأنواع المتقدمة، Generics، والتطبيقات الواقعية في TypeScript",
+        "price": "٩٩$",
+        "originalPrice": "١٢٩$",
+        "duration": "١٠ أسابيع",
+        "level": "متوسط",
+        "rating": 4.8,
+        "students": 2156,
+        "lessons": 48,
+        "hours": 22,
+        "instructor": "ديفيد كيم",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "css-animations",
+        "title": "الحركات والانتقالات في CSS",
+        "description": "ابتكر حركات مدهشة وتفاعلات صغيرة باستخدام CSS الحديث",
+        "price": "٦٩$",
+        "originalPrice": "٨٩$",
+        "duration": "٦ أسابيع",
+        "level": "مبتدئ",
+        "rating": 4.5,
+        "students": 3452,
+        "lessons": 35,
+        "hours": 15,
+        "instructor": "ليزا بارك",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "javascript-advanced",
+        "title": "مفاهيم JavaScript المتقدمة",
+        "description": "تعمّق في Closures، Prototypes، البرمجة غير المتزامنة، وميزات ES6+",
+        "price": "١٠٩$",
+        "originalPrice": "١٣٩$",
+        "duration": "١٢ أسبوع",
+        "level": "متقدم",
+        "rating": 4.9,
+        "students": 1789,
+        "lessons": 56,
+        "hours": 35,
+        "instructor": "جون مارتينيز",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "responsive-design",
+        "title": "تصميم المواقع المتجاوبة",
+        "description": "ابنِ مواقع متجاوبة ومناسبة للجوال باستخدام أحدث تقنيات CSS",
+        "price": "٥٩$",
+        "originalPrice": "٧٩$",
+        "duration": "٨ أسابيع",
+        "level": "مبتدئ",
+        "rating": 4.4,
+        "students": 4123,
+        "lessons": 38,
+        "hours": 16,
+        "instructor": "ريتشيل غرين",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "svelte-kit",
+        "title": "تطوير SvelteKit",
+        "description": "تعلّم SvelteKit لبناء تطبيقات ويب سريعة وحديثة",
+        "price": "١٣٩$",
+        "originalPrice": "١٦٩$",
+        "duration": "١٤ أسبوع",
+        "level": "متوسط",
+        "rating": 4.7,
+        "students": 987,
+        "lessons": 62,
+        "hours": 38,
+        "instructor": "توم أندرسون",
+        "image": "/placeholder.svg?height=200&width=300"
+      }
+    ],
+    "react": {
+      "title": "إتقان React",
+      "description": "دورة شاملة تبدأ من الأساسيات وصولاً للمفاهيم المتقدمة",
+      "price": "٩٩$",
+      "duration": "١٢ أسبوع",
+      "level": "من مبتدئ إلى متقدم"
+    },
+    "nextjs": {
+      "title": "احتراف Next.js",
+      "description": "ابنِ تطبيقات متكاملة باستخدام Next.js وTypeScript",
+      "price": "١٤٩$",
+      "duration": "١٦ أسبوع",
+      "level": "متوسط"
+    },
+    "vue": {
+      "title": "دورة Vue.js الكاملة",
+      "description": "أتقن نظام Vue.js بما في ذلك Nuxt.js وPinia",
+      "price": "١١٩$",
+      "duration": "١٤ أسبوع",
+      "level": "من مبتدئ إلى متقدم"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "مرحباً بعودتك",
+      "subtitle": "سجّل دخولك لتكمل رحلة التعلم",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "forgotPassword": "هل نسيت كلمة المرور؟",
+      "loginButton": "تسجيل الدخول",
+      "noAccount": "ليس لديك حساب؟",
+      "signupLink": "سجّل هنا"
+    },
+    "signup": {
+      "title": "انضم إلى مجتمعنا",
+      "subtitle": "أنشئ حسابك وابدأ رحلتك التعليمية",
+      "firstName": "الاسم الأول",
+      "lastName": "اسم العائلة",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "signupButton": "إنشاء حساب",
+      "hasAccount": "لديك حساب بالفعل؟",
+      "loginLink": "سجّل دخولك من هنا",
+      "terms": "بإنشائك حساباً، فإنك توافق على شروط الخدمة وسياسة الخصوصية"
+    }
+  },
+  "about": {
+    "title": "عن DevCourses",
+    "subtitle": "نُمكّن المطورين حول العالم من خلال تعليم حديث في تطوير الواجهات الأمامية",
+    "mission": {
+      "title": "مهمتنا",
+      "description": "نحن نؤمن أن التعليم الجيد يجب أن يكون متاحاً للجميع. مهمتنا هي توفير دورات عالمية المستوى في تطوير الواجهات الأمامية تساعد المطورين على بناء تطبيقات مذهلة وتطوير مسيرتهم المهنية."
+    },
+    "stats": {
+      "students": "١٠,٠٠٠+",
+      "studentsLabel": "طلاب سعداء",
+      "courses": "٥٠+",
+      "coursesLabel": "دورات احترافية",
+      "completion": "٩٥٪",
+      "completionLabel": "معدل إكمال"
+    }
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "subtitle": "لديك سؤال؟ يسعدنا سماعك",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "sendButton": "أرسل الرسالة",
+    "info": {
+      "email": {
+        "value": "hello@devcourses.com",
+        "label": "راسلنا"
+      },
+      "phone": {
+        "value": "+1 (123) 456-7890",
+        "label": "اتصل بنا"
+      },
+      "address": {
+        "value": "١٢٣ شارع الرئيسي، ঢাকা، بنغلاديش",
+        "label": "زرنا"
+      }
+    }
+  },
+  "footer": {
+    "description": "تعلّم تطوير الواجهات الأمامية مع دورات يقودها خبراء ومشاريع عملية.",
+    "quickLinks": "روابط سريعة",
+    "courses": "الدورات",
+    "support": "الدعم",
+    "legal": "القانوني",
+    "newsletter": "اشترك في نشرتنا لتصلك آخر التحديثات والنصائح",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "subscribe": "اشترك",
+    "copyright": "© ٢٠٢٤ DevCourses. جميع الحقوق محفوظة."
+  }
+}

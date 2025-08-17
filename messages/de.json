@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "Home",
+    "courses": "Cursussen",
+    "about": "Over ons",
+    "contact": "Contact",
+    "login": "Inloggen",
+    "signup": "Account aanmaken"
+  },
+  "hero": {
+    "title": "Word een meester in Frontend Development",
+    "subtitle": "Leer moderne webontwikkeling met praktijkprojecten en begeleiding van experts",
+    "cta": "Begin vandaag nog met leren",
+    "watchDemo": "Bekijk demo"
+  },
+  "features": {
+    "title": "Waarom kiezen voor onze cursussen?",
+    "practical": {
+      "title": "Praktijkprojecten",
+      "description": "Bouw échte applicaties met moderne frameworks en tools"
+    },
+    "expert": {
+      "title": "Ervaren docenten",
+      "description": "Leer van professionals uit de industrie met jarenlange ervaring"
+    },
+    "community": {
+      "title": "Actieve community",
+      "description": "Sluit je aan bij duizenden ontwikkelaars en krijg steun wanneer je het nodig hebt"
+    }
+  },
+  "courses": {
+    "title": "Uitgelichte cursussen",
+    "cta": "Schrijf je nu in",
+    "pageTitle": "Alle cursussen",
+    "pageSubtitle": "Ontdek onze complete collectie frontend development cursussen",
+    "searchPlaceholder": "Zoek naar cursussen...",
+    "filterAll": "Alle niveaus",
+    "filterBeginner": "Beginner",
+    "filterIntermediate": "Gevorderd",
+    "filterAdvanced": "Expert",
+    "enrollButton": "Inschrijven",
+    "studentsLabel": "studenten",
+    "lessonsLabel": "lessen",
+    "hoursLabel": "uren",
+    "list": [
+      {
+        "id": "react-fundamentals",
+        "title": "React Fundamentals",
+        "description": "Beheers de basis van React: componenten, props, state en hooks",
+        "price": "€79",
+        "originalPrice": "€99",
+        "duration": "8 weken",
+        "level": "Beginner",
+        "rating": 4.8,
+        "students": 2847,
+        "lessons": 42,
+        "hours": 18,
+        "instructor": "Sarah Johnson",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "advanced-react",
+        "title": "Geavanceerde React Patterns",
+        "description": "Leer geavanceerde React-concepten, performance optimalisatie en design patterns",
+        "price": "€129",
+        "originalPrice": "€159",
+        "duration": "12 weken",
+        "level": "Expert",
+        "rating": 4.9,
+        "students": 1523,
+        "lessons": 58,
+        "hours": 32,
+        "instructor": "Mike Chen",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "nextjs-complete",
+        "title": "Complete Next.js Gids",
+        "description": "Bouw full-stack applicaties met Next.js, TypeScript en moderne tools",
+        "price": "€149",
+        "originalPrice": "€199",
+        "duration": "16 weken",
+        "level": "Gevorderd",
+        "rating": 4.7,
+        "students": 3241,
+        "lessons": 72,
+        "hours": 45,
+        "instructor": "Alex Rodriguez",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "vue-mastery",
+        "title": "Vue.js Meesterschap",
+        "description": "Complete cursus over Vue 3, Composition API en het ecosysteem",
+        "price": "€119",
+        "originalPrice": "€149",
+        "duration": "14 weken",
+        "level": "Beginner",
+        "rating": 4.6,
+        "students": 1876,
+        "lessons": 65,
+        "hours": 28,
+        "instructor": "Emma Wilson",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "typescript-pro",
+        "title": "TypeScript voor Professionals",
+        "description": "Beheers TypeScript met geavanceerde types, generics en real-world toepassingen",
+        "price": "€99",
+        "originalPrice": "€129",
+        "duration": "10 weken",
+        "level": "Gevorderd",
+        "rating": 4.8,
+        "students": 2156,
+        "lessons": 48,
+        "hours": 22,
+        "instructor": "David Kim",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "css-animations",
+        "title": "CSS Animaties & Transities",
+        "description": "Maak verbluffende animaties en micro-interacties met moderne CSS",
+        "price": "€69",
+        "originalPrice": "€89",
+        "duration": "6 weken",
+        "level": "Beginner",
+        "rating": 4.5,
+        "students": 3452,
+        "lessons": 35,
+        "hours": 15,
+        "instructor": "Lisa Park",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "javascript-advanced",
+        "title": "Geavanceerde JavaScript Concepten",
+        "description": "Duik diep in closures, prototypes, async programming en ES6+ features",
+        "price": "€109",
+        "originalPrice": "€139",
+        "duration": "12 weken",
+        "level": "Expert",
+        "rating": 4.9,
+        "students": 1789,
+        "lessons": 56,
+        "hours": 35,
+        "instructor": "John Martinez",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "responsive-design",
+        "title": "Responsief Webdesign",
+        "description": "Ontwerp mobile-first, responsieve websites met moderne CSS-technieken",
+        "price": "€59",
+        "originalPrice": "€79",
+        "duration": "8 weken",
+        "level": "Beginner",
+        "rating": 4.4,
+        "students": 4123,
+        "lessons": 38,
+        "hours": 16,
+        "instructor": "Rachel Green",
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": "svelte-kit",
+        "title": "SvelteKit Ontwikkeling",
+        "description": "Leer SvelteKit voor het bouwen van snelle, moderne webapps",
+        "price": "€139",
+        "originalPrice": "€169",
+        "duration": "14 weken",
+        "level": "Gevorderd",
+        "rating": 4.7,
+        "students": 987,
+        "lessons": 62,
+        "hours": 38,
+        "instructor": "Tom Anderson",
+        "image": "/placeholder.svg?height=200&width=300"
+      }
+    ],
+    "react": {
+      "title": "React Meesterschap",
+      "description": "Complete cursus van basis tot geavanceerde React-concepten",
+      "price": "€99",
+      "duration": "12 weken",
+      "level": "Beginner tot Expert"
+    },
+    "nextjs": {
+      "title": "Next.js Pro",
+      "description": "Bouw full-stack applicaties met Next.js en TypeScript",
+      "price": "€149",
+      "duration": "16 weken",
+      "level": "Gevorderd"
+    },
+    "vue": {
+      "title": "Complete Vue.js Cursus",
+      "description": "Beheers het Vue-ecosysteem inclusief Nuxt.js en Pinia",
+      "price": "€119",
+      "duration": "14 weken",
+      "level": "Beginner tot Expert"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welkom terug",
+      "subtitle": "Log in op je account om verder te leren",
+      "email": "E-mail",
+      "password": "Wachtwoord",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "loginButton": "Inloggen",
+      "noAccount": "Nog geen account?",
+      "signupLink": "Meld je hier aan"
+    },
+    "signup": {
+      "title": "Word lid van onze community",
+      "subtitle": "Maak een account en start je leerreis",
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "email": "E-mail",
+      "password": "Wachtwoord",
+      "confirmPassword": "Bevestig wachtwoord",
+      "signupButton": "Account aanmaken",
+      "hasAccount": "Heb je al een account?",
+      "loginLink": "Log hier in",
+      "terms": "Door een account aan te maken ga je akkoord met onze Servicevoorwaarden en Privacybeleid"
+    }
+  },
+  "about": {
+    "title": "Over DevCourses",
+    "subtitle": "Wij geven ontwikkelaars wereldwijd kracht met cutting-edge frontend educatie",
+    "mission": {
+      "title": "Onze missie",
+      "description": "Wij geloven dat kwalitatief onderwijs voor iedereen toegankelijk moet zijn. Onze missie is om cursussen van wereldklasse te bieden die ontwikkelaars helpen geweldige webapplicaties te bouwen en hun carrière te laten groeien."
+    },
+    "stats": {
+      "students": "10.000+",
+      "studentsLabel": "Tevreden studenten",
+      "courses": "50+",
+      "coursesLabel": "Expert cursussen",
+      "completion": "95%",
+      "completionLabel": "Voltooiingsgraad"
+    }
+  },
+  "contact": {
+    "title": "Neem contact op",
+    "subtitle": "Heb je vragen? Wij horen graag van je",
+    "name": "Naam",
+    "email": "E-mail",
+    "subject": "Onderwerp",
+    "message": "Bericht",
+    "sendButton": "Verstuur bericht",
+    "info": {
+      "email": {
+        "value": "hello@devcourses.com",
+        "label": "Mail ons"
+      },
+      "phone": {
+        "value": "+1 (123) 456-7890",
+        "label": "Bel ons"
+      },
+      "address": {
+        "value": "Hoofdstraat 123, Dhaka, Bangladesh",
+        "label": "Bezoek ons"
+      }
+    }
+  },
+  "footer": {
+    "description": "Leer frontend development met cursussen onder leiding van experts en praktijkprojecten.",
+    "quickLinks": "Snelle links",
+    "courses": "Cursussen",
+    "support": "Support",
+    "legal": "Juridisch",
+    "newsletter": "Schrijf je in voor onze nieuwsbrief en ontvang tips en updates",
+    "emailPlaceholder": "Voer je e-mail in",
+    "subscribe": "Inschrijven",
+    "copyright": "© 2024 DevCourses. Alle rechten voorbehouden."
+  }
+}
