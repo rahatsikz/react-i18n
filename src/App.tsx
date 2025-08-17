@@ -12,9 +12,9 @@ import SignupPage from "./pages/SignupPage";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
 import CoursesPage from "./pages/CoursePage";
-import { DEFAULT_LOCALE } from "./constant";
-import { LanguageProvider } from "./language-provider";
-import { GeoRedirect } from "./geo-redirect";
+import { DEFAULT_LOCALE } from "./i18n/constant";
+import { LanguageProvider } from "./i18n/language-provider";
+import { GeoRedirect } from "./i18n/geo-redirect";
 
 function App() {
   return (

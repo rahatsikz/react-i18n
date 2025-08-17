@@ -3,7 +3,7 @@ import {
   Link as RouterLink,
   type LinkProps as RouterLinkProps,
 } from "react-router-dom";
-import { useLocale } from "./hooks/use-locale";
+import { useLocale } from "../hooks/use-locale";
 
 // Extend props to accept normal Link props
 export type LinkProps = RouterLinkProps;

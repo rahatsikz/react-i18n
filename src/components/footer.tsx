@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { GraduationCap } from "lucide-react";
-import { Link } from "@/link";
+import { Link } from "@/i18n/link";
 import { useNestedTranslations } from "@/hooks/use-nested-translation";
 
 export function Footer() {

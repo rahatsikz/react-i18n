@@ -1,6 +1,5 @@
-// LanguageSwitcher.tsx
 import React from "react";
-import { SUPPORTED_LOCALES, type Locale } from "@/constant";
+import { SUPPORTED_LOCALES, type Locale } from "@/i18n/constant";
 import {
   DropdownMenu,
   DropdownMenuTrigger,

@@ -8,7 +8,7 @@ import {
 } from "../components/ui/card";
 import { Badge } from "../components/ui/badge";
 import { BookOpen, Users, Award, Play, Clock } from "lucide-react";
-import { Link } from "@/link";
+import { Link } from "@/i18n/link";
 import { useNestedTranslations } from "@/hooks/use-nested-translation";
 
 export default function HomePage() {
@@ -19,10 +19,10 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className='py-20 px-4 sm:px-6 lg:px-8'>
         <div className='container mx-auto text-center'>
-          <h1 className='font-playfair font-bold text-4xl md:text-6xl text-foreground mb-6'>
+          <h1 className='font-playfair font-bold text-4xl md:text-6xl text-foreground max-w-2xl mx-auto mb-6'>
             {t("hero.title")}
           </h1>
-          <p className='text-xl text-muted-foreground mb-8 max-w-2xl mx-auto'>
+          <p className='text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty'>
             {t("hero.subtitle")}
           </p>
           <div className='flex flex-col sm:flex-row gap-4 justify-center items-center'>

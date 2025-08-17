@@ -14,7 +14,7 @@ import enMessages from "../../messages/en.json";
 import deMessages from "../../messages/de.json";
 import arMessages from "../../messages/ar.json";
 import { useParams } from "react-router-dom";
-import { DEFAULT_LOCALE, SUPPORTED_LOCALES } from "@/constant";
+import { DEFAULT_LOCALE, SUPPORTED_LOCALES } from "@/i18n/constant";
 
 export default function CoursesPage() {
   const t = useNestedTranslations();

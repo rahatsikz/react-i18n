@@ -9,7 +9,7 @@ import {
 } from "../components/ui/card";
 import { Input } from "../components/ui/input";
 import { Label } from "../components/ui/label";
-import { Link } from "@/link";
+import { Link } from "@/i18n/link";
 
 export default function LoginPage() {
   const t = useNestedTranslations();

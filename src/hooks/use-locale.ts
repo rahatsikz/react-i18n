@@ -1,4 +1,4 @@
+import { LanguageContext } from "@/i18n/language-context";
 import { useContext } from "react";
-import { LanguageContext } from "../language-context";
 
 export const useLocale = () => useContext(LanguageContext);

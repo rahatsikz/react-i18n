@@ -1,6 +1,6 @@
-import en from "../messages/en.json";
-import de from "../messages/de.json";
-import ar from "../messages/ar.json";
+import en from "../../messages/en.json";
+import de from "../../messages/de.json";
+import ar from "../../messages/ar.json";
 
 export const resources = {
   en: { translation: en },

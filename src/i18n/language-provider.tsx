@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useLocation, useNavigate, useParams } from "react-router-dom";
 import { LanguageContext } from "./language-context";
 import { DEFAULT_LOCALE, SUPPORTED_LOCALES, type Locale } from "./constant";
-import i18n from "./i18n";
+import i18n from "./index";
 
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({
   children,
